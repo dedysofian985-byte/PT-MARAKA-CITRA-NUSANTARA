@@ -1,0 +1,6 @@
+{
+  "name": "PT Maraka Citra Nusantara",
+  "description": "Suplai Material, Konstruksi, dan Pertambangan - NTB, NTT, Sulawesi, Kalimantan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
